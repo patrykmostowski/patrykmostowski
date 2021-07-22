@@ -1,5 +1,5 @@
 # hi there 👋
-Im Patrick, currently on my path to learn front-end web development, after that im planning to become a DevOps Engineer. Currently looking for employment in Warsaw, so feel free to hit me up. Fluent both with English and Polish
+Im Patrick, currently on my path to master front-end web development, after that im planning to become a DevOps Engineer. Currently looking for employment in Warsaw, so feel free to hit me up. Fluent both with English and Polish
 
 ## about me 👤
 * OS - ArchLinux
