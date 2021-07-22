@@ -21,7 +21,7 @@ Im Patrick, currently on my path to learn front-end web development, after that 
 * Basic graphic design skills
 
 ## what i worked with
-* WordPress & WoCommerce
+* WordPress & WooCommerce
 * Shopify Liquid
 * Static HTML websites
 * Configuring Linux & Windows servers
