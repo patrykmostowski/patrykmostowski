@@ -20,7 +20,7 @@ Im Patrick, currently on my path to master front-end web development, after that
 * Network management (Active Directory)
 * Basic graphic design skills
 
-## what i worked with
+## what i worked with 🤝
 * WordPress & WooCommerce
 * Shopify Liquid
 * Static HTML websites
