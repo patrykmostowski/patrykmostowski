@@ -12,8 +12,8 @@ Im Patrick, currently on my path to master front-end web development, after that
 * RWD & UI/UX
 * JavaScript (ES6)
 * Node.js
-* Basic knowledge of react.js
-* Basic knowledge of python & selenium web driver
+* React.js / Gatsby
+* Python
 * Sql
 * MongoDb
 * Bash/Linux
