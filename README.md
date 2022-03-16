@@ -7,12 +7,11 @@ Im Patrick, currently on my path to master front-end web development, after that
 * Fav. language - JavaScript
 
 ## my skills ⚙️
-* HTML5
-* CSS3 & SASS
-* RWD & UI/UX
+* React.js
 * JavaScript (ES6)
 * Node.js
-* React.js / Gatsby
+* Gatsby
+* CSS3, SASS, HTML5
 * Python
 * Sql
 * MongoDb
